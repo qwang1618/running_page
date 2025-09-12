@@ -7,7 +7,6 @@ from collections import namedtuple
 from config import GPX_FOLDER, OUTPUT_DIR
 from keep_sync import KEEP_SPORT_TYPES, get_all_keep_tracks
 from strava_sync import run_strava_sync
-from stravalib.exc import ActivityUploadFailed, RateLimitTimeout
 
 from utils import make_strava_client, upload_file_to_strava
 
