@@ -3,7 +3,7 @@ name: Run Data Sync
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 10 * * *'
+    - cron: '0 2 * * 3,5'
 
 env:
   # please change to your own config.
