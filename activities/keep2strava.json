@@ -88,5 +88,11 @@
 "name": "Run from keep",
 "type": "Run",
 "gpx_file_path": "/home/runner/work/running_page/running_page/GPX_OUT/9223370279425527807.gpx"
+},
+{
+"run_id": 9223370278907433807,
+"name": "Run from keep",
+"type": "Run",
+"gpx_file_path": "/home/runner/work/running_page/running_page/GPX_OUT/9223370278907433807.gpx"
 }
 ]
