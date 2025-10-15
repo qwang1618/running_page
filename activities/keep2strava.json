@@ -142,5 +142,17 @@
 "name": "Run from keep",
 "type": "Run",
 "gpx_file_path": "/home/runner/work/running_page/running_page/GPX_OUT/9223370277527909807.gpx"
+},
+{
+"run_id": 9223370276484613807,
+"name": "Run from keep",
+"type": "Run",
+"gpx_file_path": null
+},
+{
+"run_id": 9223370276745756807,
+"name": "Run from keep",
+"type": "Run",
+"gpx_file_path": "/home/runner/work/running_page/running_page/GPX_OUT/9223370276745756807.gpx"
 }
 ]
